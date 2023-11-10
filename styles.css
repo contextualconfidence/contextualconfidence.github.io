@@ -1,0 +1,17 @@
+/* This is your style.css file */
+
+/* Button styles */
+button {
+    background-color: #ffffff; /* White background */
+    border: 1px solid #000000; /* Black border */
+    padding: 10px 20px; /* Padding inside the button */
+    cursor: pointer; /* Cursor changes to a pointer on hover */
+    /* Additional styles */
+  }
+  
+  button:hover {
+    background-color: #f7f7f7; /* Light grey background on hover */
+  }
+  
+  /* Other styles for your Jekyll site */
+  
